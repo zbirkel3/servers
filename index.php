@@ -3,6 +3,7 @@
 	<head>
 		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css" />
 		<link rel="stylesheet" type="text/css" href="styles.css" />
+		<link rel="icon" type="image/jpg" href="images/mc-icon.jpg" />
 		<title>SERVERS</title>
 	</head>
 	<body>
